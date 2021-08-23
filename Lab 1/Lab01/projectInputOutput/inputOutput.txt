@@ -1,0 +1,19 @@
+run:
+Enter customer name: John Doe
+Enter customer street address: 123 Alpha St.
+Enter customer city/state/zip: Watertown/NY/13601
+Enter amount of gallons: 54321
+Enter distance travelled: 650
+John Doe
+123 Alpha St.
+Watertown/NY/13601
+Trailer volume: 26465.399850808546
+TruckVolume: 6514.734915983553
+Gallons Shipped: 54321.0
+Number of trailers: 2
+Number of tucks: 1
+Distance travelled: 650.0
+Cost of trailers: 1817.3999999999999
+Cost of trucks: 661.7
+Total costs: 2479.1
+BUILD SUCCESSFUL (total time: 33 seconds)

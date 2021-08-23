@@ -1,0 +1,12 @@
+ITM-23
+Left-Handed Doofungies
+181.65 241.95 0.90 300
+BF6100
+Binford Sawzall
+876.76 1365.92 0.80 50
+DIK911
+Emergency Kit
+14.75 29.95 0.95 15
+DLX098
+Chair Adjusters
+62.95 82.45 0.30 10

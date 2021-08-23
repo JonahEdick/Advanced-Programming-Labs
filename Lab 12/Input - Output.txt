@@ -1,0 +1,65 @@
+run:
+Enter name: Jonah C. Edick
+
+Enter Pay-Rate: 44.99
+
+Enter Repair Job Info Below
+Job Name: Cricket Service Upgrade
+Job Date: 4/22/2020
+Hours of Job: 1.25
+
+Process Another Job (Y/N): y
+
+Enter Repair Job Info Below
+Job Name: iPhone 7 : Screen Fix
+Job Date: 4/22/2020
+Hours of Job: 3
+
+Process Another Job (Y/N): y
+
+Enter Repair Job Info Below
+Job Name: LG Stylo 5 : Replacement Pen
+Job Date: 4/23/2020
+Hours of Job: 0.5
+
+Process Another Job (Y/N): n
+
+Job Name                                           Date   Hours
+Cricket Service Upgrade                       4/22/2020    1.25
+iPhone 7 : Screen Fix                         4/22/2020    3.00
+LG Stylo 5 : Replacement Pen                  4/23/2020    0.50
+
+Modify A Job
+Enter Job To Find: Cricket Service Upgrade
+
+Enter Repair Job Info Below
+Job Name: Cricket Service Add On
+Job Date: 4/22/2020
+Hours of Job: 2
+
+Modify Another Job (Y/N)n
+
+Job Name                                           Date   Hours
+Cricket Service Add On                        4/22/2020    2.00
+iPhone 7 : Screen Fix                         4/22/2020    3.00
+LG Stylo 5 : Replacement Pen                  4/23/2020    0.50
+
+Remove A Job
+Enter Job To Find: No Deletion
+
+Job Not Found
+
+Delete Another Job (Y/N): n
+
+                     Edick's Tech Support
+
+Technician: Jonah C. Edick
+Pay-Rate:            44.99
+
+Job Name                                           Date   HoursAmount Due
+Cricket Service Add On                        4/22/2020    2.00     89.98
+iPhone 7 : Screen Fix                         4/22/2020    3.00    134.97
+LG Stylo 5 : Replacement Pen                  4/23/2020    0.50     22.50
+Totals Hours:            5.50
+Totals Amount Due:     247.45
+BUILD SUCCESSFUL (total time: 5 minutes 35 seconds)

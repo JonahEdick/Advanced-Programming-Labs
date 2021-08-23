@@ -1,0 +1,9 @@
+run:
+                Edick's Product Shop
+       We have what could be considered product.
+
+Item Number    Description                   Reorder Quantity
+ITM-23         Left-Handed Doofungies                     333
+BF6100         Binford Sawzall                             75
+DLX098         Chair Adjusters                              4
+BUILD SUCCESSFUL (total time: 0 seconds)

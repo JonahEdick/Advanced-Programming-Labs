@@ -1,0 +1,145 @@
+run:
+Enter Tax File Name (Ignore .txt): testFile
+
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+William B. Smith
+405 West Chestnut Blvd.
+Cicely, Alaska 98941
+
+Current assessed value: $43065.00                                          
+
+Applicable Rate:   5.0%  
+Property Tax Due: $2153.25                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Theodore B. Jones
+1234 Park Road
+Cicely, Alaska 98941
+
+Current assessed value: $26543.00                                          
+
+Applicable Rate:   4.0%  
+Property Tax Due: $1061.72                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Julia M. Millner
+90 West End Street
+Cicely, Alaska 98941
+
+Current assessed value: $130223.00                                         
+
+Applicable Rate:   6.0%  
+Property Tax Due: $7813.38                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Arnold J. Kilmer
+43 Smith Street
+Cicely, Alaska 98941
+
+Current assessed value: $34002.00                                          
+
+Applicable Rate:   5.0%  
+Property Tax Due: $1700.10                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Edward F. Duffany
+1094 Abner Avenue
+Cicely, Alaska 98941
+
+Current assessed value: $120553.00                                         
+
+Applicable Rate:   6.0%  
+Property Tax Due: $7233.18                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Michael C. Cushman
+294 State Street
+Cicely, Alaska 98941
+
+Current assessed value: $54677.00                                          
+
+Applicable Rate:   5.0%  
+Property Tax Due: $2733.85                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Paula K. Nichols
+Outer Utica Street
+Cicely, Alaska 98941
+
+Current assessed value: $35660.00                                          
+
+Applicable Rate:   5.0%  
+Property Tax Due: $1783.00                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Linda A. Cross
+1010 Washington Street
+Cicely, Alaska 98941
+
+Current assessed value: $120554.00                                         
+
+Applicable Rate:   6.0%  
+Property Tax Due: $7233.24                                           
+
+
+
+Town of Cicely Alaska
+Property Tax Bill
+
+Samuel N. DiGennio
+203 Harbor Street
+Cicely, Alaska 98941
+
+Current assessed value: $150032.00                                         
+
+Applicable Rate:   6.0%  
+Property Tax Due: $9001.92                                           
+
+
+
+
+
+
+Town of Cicely Alaska
+Property Tax Statistics
+
+Number of assessments below $10,001:              0
+Number of assessments between $10,001-$30,000:    1
+Number of assessments between $30,001-$60,000:    4
+Number of assessments above $60,000:              4
+Total Taxes:                               40713.64
+
+BUILD SUCCESSFUL (total time: 3 seconds)

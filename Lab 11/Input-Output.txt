@@ -1,0 +1,109 @@
+run:
+Enter the Following Information.
+Name: Jonah C. Edick
+Street: 117 Flower Ave E.
+City/State/Zip: Watertown, NY, 13601
+Phone #: (315)955-2725
+
+Here are our available pies and prices.
+1. Pumpkin Pie (10.95)
+2. Pumpkin Pecan Pie (11.95)
+3. Key Lime Pie (12.99)
+4. Pecan Pie (14.85)
+5. Apple Pie (14.99)
+6. Lemon Meringue Pie (10.99)
+7. Blackberry Pie (14.5)
+8. Blueberry Pie (15.5)
+9. Key Lime Pie (12.95)
+10. Peanut Butter Pie (14.55)
+
+Enter Desired Pie #: 1
+
+Enter Desired Pie Quantity: 2
+
+Would you like to order more pies(Y/N)
+y
+
+Enter Desired Pie #: 1
+
+Enter Desired Pie Quantity: 1
+
+Would you like to order more pies(Y/N)
+y
+
+Enter Desired Pie #: 10
+
+Enter Desired Pie Quantity: 4
+
+Would you like to order more pies(Y/N)
+n
+
+*Customer information*
+Name: Jonah C. Edick
+Street: 117 Flower Ave E.
+CSZ: Watertown, NY, 13601
+Phone #: (315)955-2725
+*Pie Orders*
+Pie Name               Pie Quantity      Pie Price       Pie Extended Price
+Pumpkin Pie                       3          10.95                    32.85
+Peanut Butter Pie                 4          14.55                    58.20
+Total Due: $91.05                                                                                               
+
+Would you like to order again(Y/N)
+y
+Enter the Following Information.
+Name: Jack N. Donato
+Street: 123 Lotus Lane
+City/State/Zip: Watertown, NY, 13601
+Phone #: (315)123-4567
+
+Here are our available pies and prices.
+1. Pumpkin Pie (10.95)
+2. Pumpkin Pecan Pie (11.95)
+3. Key Lime Pie (12.99)
+4. Pecan Pie (14.85)
+5. Apple Pie (14.99)
+6. Lemon Meringue Pie (10.99)
+7. Blackberry Pie (14.5)
+8. Blueberry Pie (15.5)
+9. Key Lime Pie (12.95)
+10. Peanut Butter Pie (14.55)
+
+Enter Desired Pie #: 2
+
+Enter Desired Pie Quantity: 2
+
+Would you like to order more pies(Y/N)
+8
+Would you like to order more pies(Y/N)
+y
+
+Enter Desired Pie #: 6
+
+Enter Desired Pie Quantity: 2
+
+Would you like to order more pies(Y/N)
+y
+
+Enter Desired Pie #: 7
+
+Enter Desired Pie Quantity: 4
+
+Would you like to order more pies(Y/N)
+n
+
+*Customer information*
+Name: Jack N. Donato
+Street: 123 Lotus Lane
+CSZ: Watertown, NY, 13601
+Phone #: (315)123-4567
+*Pie Orders*
+Pie Name               Pie Quantity      Pie Price       Pie Extended Price
+Pumpkin Pecan Pie                 2          11.95                    23.90
+Lemon Meringue Pie                2          10.99                    21.98
+Blackberry Pie                    4          14.50                    58.00
+Total Due: $103.88                                                                                              
+
+Would you like to order again(Y/N)
+n
+BUILD SUCCESSFUL (total time: 2 minutes 35 seconds)

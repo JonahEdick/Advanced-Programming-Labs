@@ -1,0 +1,25 @@
+Cricket Icon Screen Repair
+3/20/2020
+3.0
+LG Fortune 2 Battery Replacement
+3/21/2020
+2.0
+(This information is to test append mode)
+LG Sylto 2 : Screen Repair
+4/20/2020
+1.5
+Samsung S10 : Replacement
+4/21/2020
+1.25
+Cricket Icon : Replacement
+4/22/2020
+0.75
+Cricket Service Add On
+4/22/2020
+2.0
+iPhone 7 : Screen Fix
+4/22/2020
+3.0
+LG Stylo 5 : Replacement Pen
+4/23/2020
+0.5

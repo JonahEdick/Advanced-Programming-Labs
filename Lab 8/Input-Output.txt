@@ -1,0 +1,168 @@
+run:
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: e
+
+Kit Kats
+10
+4.99      
+Recces Cups
+5
+3.99      
+Nerds
+50
+0.99      
+Nerds Ropes
+25
+1.45      
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: o
+
+Enter Product Name: Nerds
+
+Nerds
+50
+0.99      
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: a
+
+Enter New Product Name: Jolly Ranchers
+Enter New Product Quantity: 75
+Enter New Product Price: 2.99
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: r
+
+Please Select Valid Choice
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: e
+
+Kit Kats
+10
+4.99      
+Recces Cups
+5
+3.99      
+Nerds
+50
+0.99      
+Nerds Ropes
+25
+1.45      
+Jolly Ranchers
+75
+2.99      
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: d
+
+Enter Product Name: Reces Cups
+
+Reces Cups was not found.
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: d
+
+Enter Product Name: Recces Cups
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: e
+
+Kit Kats
+10
+4.99      
+Nerds
+50
+0.99      
+Nerds Ropes
+25
+1.45      
+Jolly Ranchers
+75
+2.99      
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: c
+
+Enter Product Name: Kit Kats
+
+Enter new price: -3320
+
+Enter new price: 1.99
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: e
+
+Kit Kats
+10
+1.99      
+Nerds
+50
+0.99      
+Nerds Ropes
+25
+1.45      
+Jolly Ranchers
+75
+2.99      
+
+Display (O)ne
+Display (E)ach
+(A)dd Product
+(D)elete Product
+(C)hange Price
+(Q)uit
+Enter Choice: q
+
+BUILD SUCCESSFUL (total time: 2 minutes 11 seconds)

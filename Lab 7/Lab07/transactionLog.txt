@@ -1,0 +1,24 @@
+Entree #                                 10
+Entree:            Burger King Foot Lettuce
+Entree Amount:                            3
+Drink #                                   3
+Drink:                           Dr. Pepper
+Drink Amount:                             5
+Dessert #                                 1
+Dessert:        Chocolate Peanut Butter Pie
+Dessert Amount:                           5
+Amount Due: $                         78.03
+Amount Tendered: $                    80.00
+Change Due: $                          1.97
+Entree #                                 10
+Entree:            Burger King Foot Lettuce
+Entree Amount:                            3
+Drink #                                   3
+Drink:                           Dr. Pepper
+Drink Amount:                             5
+Dessert #                                 3
+Dessert:                     Dessert Burger
+Dessert Amount:                           4
+Amount Due: $                         67.78
+Amount Tendered: $                    70.00
+Change Due: $                          2.22

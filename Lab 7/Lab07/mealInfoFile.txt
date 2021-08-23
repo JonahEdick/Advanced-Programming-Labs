@@ -1,0 +1,34 @@
+Burger
+1.99
+Cheese Burger
+2.49
+Bacon Burger
+2.59
+Bacon Cheese Burger
+2.99
+Double Burger
+2.99
+Double Cheese Burger
+3.49
+Double Bacon Burger
+3.59
+Double Bacon Cheese Burger
+3.99
+The Defibrillator
+6.95
+Burger King Foot Lettuce
+14.95
+Water
+0.99
+Pepsi
+1.99
+Dr. Pepper
+1.99
+The Jar
+7.99
+Chocolate Peanut Butter Pie
+3.49
+Oreo Cheesecake
+4.49
+Dessert Burger
+1.99

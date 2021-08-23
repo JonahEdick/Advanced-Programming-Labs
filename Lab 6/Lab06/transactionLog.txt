@@ -1,0 +1,12 @@
+Entree #                                 10
+Drink #                                   4
+Dessert #                                 2
+Amount Due: $                         29.62
+Amount Tendered: $                    30.00
+Change Due: $                          0.38
+Entree #                                  9
+Drink #                                   3
+Dessert #                                 2
+Amount Due: $                         14.50
+Amount Tendered: $                    15.00
+Change Due: $                          0.50

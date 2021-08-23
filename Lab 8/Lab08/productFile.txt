@@ -1,0 +1,12 @@
+Kit Kats
+10
+1.99
+Nerds
+50
+0.99
+Nerds Ropes
+25
+1.45
+Jolly Ranchers
+75
+2.99

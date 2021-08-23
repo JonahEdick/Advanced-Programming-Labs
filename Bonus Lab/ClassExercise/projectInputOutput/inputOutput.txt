@@ -1,0 +1,18 @@
+run:
+Enter the name of the student:  John A. Doe
+Enter quiz 1 grade:  85.4
+Enter quiz 2 grade:  96.3
+Enter exam grade:  97.7
+Enter homework 1 grade:  82.3
+Enter homework 2 grade:  95.7
+Enter lab 1 grade:  72.3
+Enter lab 2 grade:  86.2
+Enter lab 3 grade:  73.4
+Enter lab 4 grade:  93.2
+Student:  John A. Doe
+Quiz average  : 90.8
+Exam grade:  97.7
+Homework average:  89.0
+Lab average:  81.3
+Midterm average:  88.6
+BUILD SUCCESSFUL (total time: 2 minutes 6 seconds)
